@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>قصر البرنسيسة | ألبسة نسائية وأطفال في عجمان</title>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; background: #fff9f6; color: #3b2630; }
+    header { background: #742c50; color: white; text-align: center; padding: 48px 20px; }
+    h1 { margin: 0 0 10px; font-size: 38px; }
+    .buttons a { display: inline-block; margin: 8px; padding: 12px 18px; border-radius: 8px;
+      background: #d4a56a; color: white; text-decoration: none; }
+    main { max-width: 900px; margin: 24px auto; padding: 0 16px; }
+    section { background: white; margin: 16px 0; padding: 24px; border-radius: 12px; }
+    footer { text-align: center; padding: 24px; color: #6c5a61; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>قصر البرنسيسة</h1>
+    <p>أناقتكِ وأناقة صغاركِ في مكان واحد</p>
+    <div class="buttons">
+      <a href="#women">الألبسة النسائية</a>
+      <a href="#kids">ألبسة الأطفال</a>
+      <a href="https://wa.me/9715XXXXXXXX">تواصلي عبر واتساب</a>
+    </div>
+  </header>
+
+  <main>
+    <section id="women">
+      <h2>ألبسة نسائية</h2>
+      <p>اكتشفي تشكيلتنا واسألينا عن المقاسات والألوان المتوفرة.</p>
+      <p>أضيفي هنا صور المنتجات وأسعارها.</p>
+    </section>
+
+    <section id="kids">
+      <h2>ألبسة أطفال</h2>
+      <p>خيارات للصغار بمقاسات وألوان متنوعة.</p>
+      <p>أضيفي هنا صور المنتجات وأسعارها.</p>
+    </section>
+
+    <section>
+      <h2>زورونا في عجمان</h2>
+      <p>العنوان: أضيفي عنوان المحل هنا</p>
+      <p>ساعات العمل: أضيفي ساعات العمل هنا</p>
+    </section>
+  </main>
+
+  <footer>© قصر البرنسيسة</footer>
+</body>
+</html>
